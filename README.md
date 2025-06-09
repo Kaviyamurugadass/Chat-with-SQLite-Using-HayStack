@@ -50,3 +50,19 @@ This project provides a simple web interface to query an absenteeism database us
 
 UI of this project
 ![Screenshot 2025-06-09 112427](https://github.com/user-attachments/assets/8f993129-d5c6-4549-b799-8b5353b78b54)
+
+--- 
+
+### Sample questions
+ 📊 General Absenteeism Questions
+ - What is the average absenteeism time?
+
+ - Which employee has the highest absenteeism time?
+
+ - How many employees have disciplinary failures?
+
+ - What is the total absenteeism time grouped by reason for absence?
+
+ - Which month has the most absenteeism cases?
+
+ - List the top 5 departments with the most absenteeism.
