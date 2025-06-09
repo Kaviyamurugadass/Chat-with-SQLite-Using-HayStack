@@ -47,3 +47,6 @@ This project provides a simple web interface to query an absenteeism database us
 - For production use, add input sanitization and/or natural language to SQL conversion.
 
 ---
+
+UI of this project
+![Screenshot 2025-06-09 112427](https://github.com/user-attachments/assets/8f993129-d5c6-4549-b799-8b5353b78b54)
